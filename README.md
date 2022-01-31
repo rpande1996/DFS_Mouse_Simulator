@@ -59,12 +59,12 @@ git clone https://github.com/mackorone/mms.git
 git clone https://github.com/micromouseonline/mazefiles.git
 git clone https://github.com/mackorone/mms-cpp.git
 sudo apt-get install qt5-default
+cd ~/mouse_simulator
+git clone https://github.com/rpande1996/DFS_Mouse_Simulator
 cd mms/src
 qmake && make
 cd ∼/mouse_simulator/mms/bin
 ./mms
-cd ~/mouse_simulator
-git clone https://github.com/rpande1996/DFS_Mouse_Simulator
 ```
 Change the values as given:
 
