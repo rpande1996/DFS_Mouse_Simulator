@@ -53,7 +53,7 @@ SOFTWARE.
 ## Build
 Prerequisites:
 ```
-mkdir ∼/mouse_simulator
+mkdir -p ∼/mouse_simulator
 cd ~/mouse_simulator
 git clone https://github.com/mackorone/mms.git
 git clone https://github.com/micromouseonline/mazefiles.git
