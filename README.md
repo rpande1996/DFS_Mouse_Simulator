@@ -68,7 +68,7 @@ cd ∼/mouse_simulator/mms/bin
 ```
 Change the values as given:
 
-![Image](https://github.com/rpande1996/DFS_Mouse_Simulator/blob/main/media/config-linux.png)
+![Image](https://github.com/rpande1996/DFS_Mouse_Simulator/blob/main/media/config.png)
 ```
 1. Name: DFS_Mouse_Simulator
 2. Directory: ~/mouse_simulator/DFS_Mouse_Simulator
