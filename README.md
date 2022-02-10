@@ -52,6 +52,10 @@ SOFTWARE.
 
 ## Demo
 
+Following demo is for Maze 3:
+- [DFS Algorithm Representation](https://youtu.be/HOb_XCYA3K8)
+
+![GIF](media/gif/Maze_3.gif)
 
 ## Build
 Prerequisites:
