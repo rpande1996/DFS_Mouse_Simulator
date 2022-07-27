@@ -8,7 +8,7 @@
 Graduate Student of M.Eng Robotics at University of Maryland. 
 2) [Douglas Summerlin](https://github.com/dsumm1001): 
 Graduate Student of M.Eng Robotics at University of Maryland.
-3) [Prasanna Raghavan](mailto:pthiruku@umd.edu): 
+3) [Prasanna Raghavan](https://github.com/prasannaraghavan): 
 Graduate Student of M.Eng Robotics at University of Maryland.
 
 ## Overview
